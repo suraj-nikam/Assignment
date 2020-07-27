@@ -12,6 +12,6 @@ RollNo.:200240320125
 Row :- tupple , entity, opportunity
 Coloumn:- attribute, method
 
-4) Why isn’t it possible to see the first five rows of a table?
+4) Why isnâ€™t it possible to see the first five rows of a table?
 
 ->Order by and offset
