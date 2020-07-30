@@ -1,0 +1,18 @@
+			Exercise No:3
+
+1.select concat(upper(substr(Sname,1,1)),substr(Sname,2))from s;
+
+2.select upper(Sname) from s;
+
+3.select lower(Sname) from s;
+
+4.select lpad(Sname,25,")from s;
+
+5.select replace(Sname,'er','ro')from s;
+
+6.select replace(Sname,'l','r')from s;
+select replace(Sname,'a','o')from s;
+
+7.select Sname,length(Sname)from s;
+
+8.select Sname from s where soundex(Sname)=soundex('BLOKE');
